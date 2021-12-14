@@ -44,7 +44,11 @@ a{
     grid-area: intro;
     width: 100%;
     height: 400px;
+<<<<<<< HEAD
     background-image: url(../img/fondo_5.jpg);
+=======
+    background-image: url(../img/fondo_3.jpg);
+>>>>>>> 90a7bcebe1174f43eaea1e635ee870c9c3a2f556
     background-color: black;
     background-position: center center;
     background-size: cover;
