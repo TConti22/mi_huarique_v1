@@ -106,7 +106,7 @@ ul li a:hover {
     font-family: 'Fredoka One', cursive;
     font-size: 1.2rem;
     color: rgb(206, 119, 5);
-    background-image: url(img/fondo_rojo_menu.jpg);
+    background-image: url(../img/fondo_rojo_menu.jpg);
     background-color: red;
     background-position: center center;
     background-size: cover;
@@ -152,7 +152,7 @@ ul li a:hover {
 
 
 .portada__boton {
-    background-image: url(img/fondo_rojo_menu.jpg);
+    background-image: url(../img/fondo_rojo_menu.jpg);
     background-color:red;
     font-size: 0.8rem;
     padding:5px;
@@ -178,7 +178,7 @@ ul li a:hover {
 
 .contenedor2 {
     background-color: red;
-    background-image: url(img/fondo_rojo_menu.jpg);
+    background-image: url(../img/fondo_rojo_menu.jpg);
     width: 100%;
     background-size: cover;
 }
@@ -241,7 +241,7 @@ ul li a:hover {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
-    background-image: url(img/fondo_4.jpg);
+    background-image: url(../img/fondo_4.jpg);
     background-color: black;
     background-position: center center;
     position: relative;
@@ -307,7 +307,7 @@ ul li a:hover {
 
 .footer__derechos {
     background-color: red;
-    background-image: url(img/fondo_rojo_menu.jpg);
+    background-image: url(../img/fondo_rojo_menu.jpg);
     width: 100%;
     font-size: 0.8rem;
 }
