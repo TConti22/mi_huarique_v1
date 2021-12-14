@@ -44,7 +44,7 @@ a{
     grid-area: intro;
     width: 100%;
     height: 400px;
-    background-image: url(../img/fondo_3.JPG);
+    background-image: url(../img/fondo_3.jpg);
     background-color: black;
     background-position: center center;
     background-size: cover;
